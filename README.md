@@ -1,1 +1,1 @@
-# -class-image-php
+# class-image-php
